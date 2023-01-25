@@ -1,6 +1,10 @@
 # Prosper bank loans data exploration
 ## by Sultan Alharbi
 
+## What you will find in this repo?
+- Data folder: contains to datasets , the original data and the cleaned version.
+-Src folder: contains a notebook with the name "Part_I_exploration" that I did the exploration phase on it, another notebook was used to create the presentation, and two HTML files one for documenting the explporation phase and the other for the final presentation.
+
 
 ## Dataset
 
